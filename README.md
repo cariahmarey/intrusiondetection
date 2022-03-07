@@ -1,20 +1,16 @@
 # Intrusion Detection
 R Code to Test Intrusion Detection of Topic Model
 
-1. Load all files from folder "Resources" into your R environment
-2. Run function 
+1. Load all files from folder "Resources" into your R environment.
+2. Run following function in file "word_intrusion":
 ```
 tm_word_intrusion()
 ```
-in file "word_intrusion"
-
-3. Run function 
+3. Run following function in file "topic_intrusion":
 ```
 tm_topic_intrusion()
 ```
-in file "topic_intrusion"
-
-4. Open new R file
+4. Create new R file.
 5. Paste and run:
 ``` 
 tm_word_intrusion(beta = beta_df)
