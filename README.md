@@ -1,4 +1,4 @@
-# intrusiondetection
+# Intrusion Detection
 R Code to Test Intrusion Detection of Topic Model
 
 1. Load all files from folder "Resources" into your R environment
