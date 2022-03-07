@@ -1,7 +1,7 @@
 # Intrusion Detection
 R Code to Test Intrusion Detection of Topic Model
 
-1. Load all files from folder "Resources" into your R environment.
+1. Download all files from the folder "Resources" to your computer and import them into your R environment by clicking on them in the "Files" window (RStudio) or by using the load function.
 2. Run following function in file "word_intrusion":
 ```
 tm_word_intrusion()
