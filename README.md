@@ -15,13 +15,13 @@ tm_topic_intrusion()
 ``` 
 tm_word_intrusion(beta = beta_df)
 ```
-6. In your console, you will see a list of words. Type in the number of the word (the "intruder") that doesn't fit to the other words. This will be repeated 10 times.
+6. In your console, you will see a list of words. Type in the number of the word (the "intruder") that **does not** fit to the other words. This will be repeated 10 times.
 7. After the 10 runs, save the performance statistic.
 8. Now paste and run: 
 ```
 tm_topic_intrusion(beta = beta_df, theta = theta_df, corpus = textdata_corpus)
 ```
-9. In your console, you will see 4 lists of words and in your viewer window you will see some text. Select the number of the list that does not fit the text of the document. This will be repeated 10 times.
+9. In your console, you will see 4 lists of words and in your viewer window you will see some text. Select the number of the list that **does not** fit the text of the document. This will be repeated 10 times.
 10. After 10 runs, save the performance statistic.
 11. Thanks.
 
