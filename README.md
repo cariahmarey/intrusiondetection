@@ -21,7 +21,7 @@ tm_word_intrusion(beta = beta_df)
 ```
 tm_topic_intrusion(beta = beta_df, theta = theta_df, corpus = textdata_corpus)
 ```
-9. In your console, you will see 4 lists of words and in your viewer window you will see some text. Select the number of the list that best fits the text of the document. This will be repeated 10 times.
+9. In your console, you will see 4 lists of words and in your viewer window you will see some text. Select the number of the list that does not fits the text of the document. This will be repeated 10 times.
 10. After 10 runs, save the performance statistic.
 11. Thanks.
 
